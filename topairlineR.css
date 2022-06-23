@@ -1,0 +1,30 @@
+body{
+	text-align: center;
+	background-color: #368170;
+}
+.option button{
+	padding: 6px;
+	border-color: black;
+	background:transparent;
+	color: black;
+	border-width: 1px;
+	border-top-width: 2px;
+}
+
+ul{
+    text-align:center;
+    list-style-position:inside;
+}
+ul li{
+	padding: 10px;
+}
+
+ol{
+	text-align: center;
+	list-style-position: inside;
+}
+
+.list{
+	text-align: center;
+	margin-right: 60px;
+}

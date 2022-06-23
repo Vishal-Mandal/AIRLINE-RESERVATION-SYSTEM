@@ -1,0 +1,50 @@
+body{
+  	background: url(img/pic30.jpg) no-repeat fixed;
+  	background-size: cover;
+    color:white;
+    text-align: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.option button{
+	padding: 6px;
+	border-color: white;
+	background:transparent;
+	color: white;
+	border-width: 1px;
+	border-top-width: 2px;
+}
+
+form{
+	text-align: center;
+	padding: 20px;
+	position: relative;
+	border:1px solid white;
+}
+
+.textbox input{
+	background:transparent;
+	color: white;
+	border:1px solid white;
+}
+.textbox select{
+	background:transparent;
+	color: white;
+}
+
+ .button input{
+ 	background-color: blue;
+ 	color: white;
+ 	border:1px solid white;
+ 	padding: 7px;
+ 	text-decoration: none;
+
+}
+.button a{
+	background-color: red;
+	color: white;
+	border:1px solid white;
+	padding: 6px;
+	text-decoration: none;
+}

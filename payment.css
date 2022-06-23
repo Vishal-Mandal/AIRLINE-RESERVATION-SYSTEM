@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+	flex-direction: column;
+	font font-family: sans-serif;
+	text-align: center;
+	background-color:#b3b2b2 ;
+	color: white;
+}
+.img1{
+    background-image: cover;
+}
+.form{
+	width: 50%;
+	height: 50%;
+	position: relative;
+	background-color:#314a57;
+	border: 1px solid black;
+}
+
+.expf{
+    margin-right:30px;
+}
+
+.expt{
+    margin-left: 30px;
+}
+
